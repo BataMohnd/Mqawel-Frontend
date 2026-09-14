@@ -36,9 +36,14 @@ migrate_working_dir/
 
 # Generated and local build artifacts
 android/.gradle/
+android/build/
 android/app/release/
 android/app/debug/
 android/app/profile/
+linux/flutter/generated_plugin_registrant.cc
+linux/flutter/generated_plugin_registrant.h
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugin_registrant.h
 *.keystore
 *.jks
 
